@@ -1,6 +1,10 @@
 self.assetsManifest = {
-  "version": "Z+GOQXSX",
+  "version": "AgMGIAuB",
   "assets": [
+    {
+      "hash": "sha256-8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=",
+      "url": "test/.nojekyll"
+    },
     {
       "hash": "sha256-60oqWsYbbshfy0XaTnf6TPCgymnnUeewEeWuPHPqtE0=",
       "url": "test/AdminPanel.styles.css"
