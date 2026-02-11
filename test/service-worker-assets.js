@@ -1,9 +1,13 @@
 self.assetsManifest = {
-  "version": "AgMGIAuB",
+  "version": "zCNPWb4k",
   "assets": [
     {
       "hash": "sha256-8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=",
       "url": "test/.nojekyll"
+    },
+    {
+      "hash": "sha256-3ytZQxDe4+n/PEw62UfcFiDQhruoZ1uEz4MwZhF1Ero=",
+      "url": "test/404.html"
     },
     {
       "hash": "sha256-60oqWsYbbshfy0XaTnf6TPCgymnnUeewEeWuPHPqtE0=",
