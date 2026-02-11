@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "22dAI/Oj",
+  "version": "qQSPsNAV",
   "assets": [
     {
       "hash": "sha256-LA3YO+hIvxd+tSHNOkNbNC3eZX7U0Qlqg/8XbzfK+zI=",
@@ -354,7 +354,7 @@ self.assetsManifest = {
       "url": "imgs/sidebar_header_picture.png"
     },
     {
-      "hash": "sha256-IqrhQ2oQZmesZtZ7u+n7HiAb59j5jc9SEcPz1nAL9Mo=",
+      "hash": "sha256-3ytZQxDe4+n/PEw62UfcFiDQhruoZ1uEz4MwZhF1Ero=",
       "url": "index.html"
     },
     {
