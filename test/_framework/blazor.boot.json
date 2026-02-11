@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "AdminPanel",
   "resources": {
-    "hash": "sha256-cl+bf7mFOwZTJZnPN4mZmYNj3I6X6HvSHYv0HvCaHCg=",
+    "hash": "sha256-xjvtbRX7jsZm6eWeaHBBTomR5b//LEkj4nZn+pbD+O4=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-4g0GzvOXSwZvTLca4PrWJkoeltz+V9IF/hEFDcnVros="
     },
@@ -82,7 +82,7 @@
       "System.Threading.wasm": "sha256-Twbbn0q6Fd7TGCfP2G7JoDgGRZVmfylVbctQiOcwrAE=",
       "System.wasm": "sha256-YSihFa+YInKtLQNBZCK8pNPmas5a97BeIhBK9Cl2Qx8=",
       "System.Private.CoreLib.wasm": "sha256-EYPi3AwRgGdhYMe69+DReggyfzrphOaLYAMIpCClPOo=",
-      "AdminPanel.wasm": "sha256-SlqVYFgONj3c/jmJOMaWXF7Gu+SqpXEMcp898k6Y3rE="
+      "AdminPanel.wasm": "sha256-bnG1Y3O4gNNYY6K/ZArHHn5YldIYrMQLmSZDXkOH2fM="
     }
   },
   "cacheBootResources": true,

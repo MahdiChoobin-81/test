@@ -44,6 +44,13 @@
     <!--<script src="https://cdn.jsdelivr.net/npm/sortablejs@latest/Sortable.min.js"></script>-->
     <!--<script src="_content/Blazor.Bootstrap/blazor.bootstrap.js"></script>-->
     <script>navigator.serviceWorker.register('service-worker.js');</script>
+
+    <script>
+        if (location.hash) {
+            const path = location.hash.substring(1);
+            history.replaceState(null, null, path);
+        }
+    </script>
 </body>
 
 </html>

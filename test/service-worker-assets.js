@@ -1,12 +1,12 @@
 self.assetsManifest = {
-  "version": "zCNPWb4k",
+  "version": "PyOfjgyx",
   "assets": [
     {
       "hash": "sha256-8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=",
       "url": "test/.nojekyll"
     },
     {
-      "hash": "sha256-3ytZQxDe4+n/PEw62UfcFiDQhruoZ1uEz4MwZhF1Ero=",
+      "hash": "sha256-fkC9zsBdBjH1+IWQV1XkZgn+lByUMpMZXCm/DuYHU6s=",
       "url": "test/404.html"
     },
     {
@@ -18,7 +18,7 @@ self.assetsManifest = {
       "url": "test/_content/Microsoft.AspNetCore.Components.WebAssembly.Authentication/AuthenticationService.js"
     },
     {
-      "hash": "sha256-SlqVYFgONj3c/jmJOMaWXF7Gu+SqpXEMcp898k6Y3rE=",
+      "hash": "sha256-bnG1Y3O4gNNYY6K/ZArHHn5YldIYrMQLmSZDXkOH2fM=",
       "url": "test/_framework/AdminPanel.wasm"
     },
     {
@@ -278,7 +278,7 @@ self.assetsManifest = {
       "url": "test/_framework/System.wasm"
     },
     {
-      "hash": "sha256-36qzcosSDkrTHMFZunfn04CfCXj3g1dz/ET/QK29Kn0=",
+      "hash": "sha256-rWn0IXipu0W6Zr4+6JiaylhWqLIKeZvRbGbQYvteS5Y=",
       "url": "test/_framework/blazor.boot.json"
     },
     {
@@ -362,7 +362,7 @@ self.assetsManifest = {
       "url": "test/imgs/sidebar_header_picture.png"
     },
     {
-      "hash": "sha256-3ytZQxDe4+n/PEw62UfcFiDQhruoZ1uEz4MwZhF1Ero=",
+      "hash": "sha256-tVGPTBZRP24hDsQMERw62B+JPmS3j441UUM0BruoV0w=",
       "url": "test/index.html"
     },
     {
